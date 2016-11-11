@@ -1,0 +1,22 @@
+5.4.0f3:2.3.0.0
+Android
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/Managed/UnityEngine.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/Managed/UnityEditor.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+E:/Study Material/Training Assignments/Game Stuff/Game Making Softwares/Game Engines/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll

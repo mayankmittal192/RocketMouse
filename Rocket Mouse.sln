@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket Mouse.CSharp", "Rocket Mouse.CSharp.csproj", "{DE4ED9E1-9417-0FB1-1868-63BB4A3175CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket Mouse.CSharp.Editor", "Rocket Mouse.CSharp.Editor.csproj", "{7C65F5ED-0507-EB76-8629-984BF60B67D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4ED9E1-9417-0FB1-1868-63BB4A3175CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4ED9E1-9417-0FB1-1868-63BB4A3175CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4ED9E1-9417-0FB1-1868-63BB4A3175CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4ED9E1-9417-0FB1-1868-63BB4A3175CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C65F5ED-0507-EB76-8629-984BF60B67D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C65F5ED-0507-EB76-8629-984BF60B67D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C65F5ED-0507-EB76-8629-984BF60B67D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C65F5ED-0507-EB76-8629-984BF60B67D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
